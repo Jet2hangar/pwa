@@ -1,6 +1,6 @@
 {
-  "name": "Jet2holidays",
-  "short_name": "Jet2holidays",
+  "name": "Hangar PWA name",
+  "short_name": "Hangar PWA short name",
   "icons": [
     {
       "src": "favicons/android-chrome-36x36.png",
@@ -30,5 +30,7 @@
   ],
   "theme_color": "#3d8ede",
   "background_color": "#3d8ede",
-  "display": "browser"
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/"
 }
