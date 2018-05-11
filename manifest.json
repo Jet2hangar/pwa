@@ -1,6 +1,11 @@
 {
   "name": "Hangar PWA name",
   "short_name": "Hangar PWA short name",
+  "theme_color": "#3d8ede",
+  "background_color": "#2b6fb1",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/pwa?utm_source=homescreen",
   "icons": [
     {
       "src": "favicons/android-chrome-36x36.png",
@@ -27,10 +32,5 @@
       "sizes": "144x144",
       "type": "image/png"
     }
-  ],
-  "theme_color": "#3d8ede",
-  "background_color": "#3d8ede",
-  "display": "fullscreen",
-  "scope": "/",
-  "start_url": "/"
+  ]
 }
