@@ -40,6 +40,7 @@ Installing Jekyll on MacOS
 
 Run Jekyll
 
-```bundle exec jekyll serve```
+```bundle exec jekyll serve``` run this only after the initial setup or after changing settings/themes etc.
+then you can run ```jekyll serve```
 
 Navigate to http://127.0.0.1:4000
